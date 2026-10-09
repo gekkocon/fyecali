@@ -1,0 +1,44 @@
+[
+ {
+  "adicional_id": "A001",
+  "nombre": "Pista de cristal con luces y flores",
+  "descripcion": "Pista de cristal iluminada con decoración floral",
+  "precio": 0,
+  "activo": true
+ },
+ {
+  "adicional_id": "A002",
+  "nombre": "DJ en vivo",
+  "descripcion": "Servicio de DJ para el evento",
+  "precio": 0,
+  "activo": true
+ },
+ {
+  "adicional_id": "A003",
+  "nombre": "Plataforma 360°",
+  "descripcion": "Video 360° durante 2 horas",
+  "precio": 0,
+  "activo": true
+ },
+ {
+  "adicional_id": "A004",
+  "nombre": "Barra coctelera",
+  "descripcion": "Cócteles con licor y sin licor",
+  "precio": 0,
+  "activo": true
+ },
+ {
+  "adicional_id": "A005",
+  "nombre": "Ventury",
+  "descripcion": "Efecto de neblina para momentos especiales",
+  "precio": 0,
+  "activo": true
+ },
+ {
+  "adicional_id": "A006",
+  "nombre": "Plato valluno",
+  "descripcion": "Empanada, marranita y aborrajado con guacamole",
+  "precio": 0,
+  "activo": true
+ }
+]

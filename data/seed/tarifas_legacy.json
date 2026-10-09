@@ -1,0 +1,608 @@
+{
+ "obsequio_cop": 2000000,
+ "venues": [
+  "Granada",
+  "Vallano",
+  "Casa 74",
+  "Casa 4",
+  "Casa 5",
+  "Orquideorama",
+  "Casa Pance"
+ ],
+ "tarifas": [
+  {
+   "venue": "Granada",
+   "invitados": 30,
+   "precio_lista": 9900000,
+   "precio_sin_obsequio": 7900000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 30,
+   "precio_lista": 10400000,
+   "precio_sin_obsequio": 8400000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 30,
+   "precio_lista": 11500000,
+   "precio_sin_obsequio": 9500000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 30,
+   "precio_lista": 11200000,
+   "precio_sin_obsequio": 9200000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 30,
+   "precio_lista": 11900000,
+   "precio_sin_obsequio": 9900000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 40,
+   "precio_lista": 10300000,
+   "precio_sin_obsequio": 8300000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 40,
+   "precio_lista": 10800000,
+   "precio_sin_obsequio": 8800000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 40,
+   "precio_lista": 11800000,
+   "precio_sin_obsequio": 9800000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 40,
+   "precio_lista": 11600000,
+   "precio_sin_obsequio": 9600000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 40,
+   "precio_lista": 12200000,
+   "precio_sin_obsequio": 10200000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 50,
+   "precio_lista": 10900000,
+   "precio_sin_obsequio": 8900000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 50,
+   "precio_lista": 11400000,
+   "precio_sin_obsequio": 9400000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 50,
+   "precio_lista": 12400000,
+   "precio_sin_obsequio": 10400000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 50,
+   "precio_lista": 12200000,
+   "precio_sin_obsequio": 10200000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 50,
+   "precio_lista": 12800000,
+   "precio_sin_obsequio": 10800000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 50,
+   "precio_lista": 12500000,
+   "precio_sin_obsequio": 10500000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 50,
+   "precio_lista": 13200000,
+   "precio_sin_obsequio": 11200000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 60,
+   "precio_lista": 11600000,
+   "precio_sin_obsequio": 9600000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 60,
+   "precio_lista": 12100000,
+   "precio_sin_obsequio": 10100000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 60,
+   "precio_lista": 12800000,
+   "precio_sin_obsequio": 10800000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 60,
+   "precio_lista": 12900000,
+   "precio_sin_obsequio": 10900000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 60,
+   "precio_lista": 13200000,
+   "precio_sin_obsequio": 11200000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 60,
+   "precio_lista": 12900000,
+   "precio_sin_obsequio": 10900000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 60,
+   "precio_lista": 13700000,
+   "precio_sin_obsequio": 11700000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 70,
+   "precio_lista": 12200000,
+   "precio_sin_obsequio": 10200000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 70,
+   "precio_lista": 12700000,
+   "precio_sin_obsequio": 10700000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 70,
+   "precio_lista": 13200000,
+   "precio_sin_obsequio": 11200000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 70,
+   "precio_lista": 13500000,
+   "precio_sin_obsequio": 11500000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 70,
+   "precio_lista": 13600000,
+   "precio_sin_obsequio": 11600000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 70,
+   "precio_lista": 13500000,
+   "precio_sin_obsequio": 11500000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 70,
+   "precio_lista": 14300000,
+   "precio_sin_obsequio": 12300000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 80,
+   "precio_lista": 12600000,
+   "precio_sin_obsequio": 10600000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 80,
+   "precio_lista": 13100000,
+   "precio_sin_obsequio": 11100000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 80,
+   "precio_lista": 13600000,
+   "precio_sin_obsequio": 11600000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 80,
+   "precio_lista": 13900000,
+   "precio_sin_obsequio": 11900000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 80,
+   "precio_lista": 14000000,
+   "precio_sin_obsequio": 12000000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 80,
+   "precio_lista": 13900000,
+   "precio_sin_obsequio": 11900000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 80,
+   "precio_lista": 14700000,
+   "precio_sin_obsequio": 12700000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 90,
+   "precio_lista": 13000000,
+   "precio_sin_obsequio": 11000000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 90,
+   "precio_lista": 13500000,
+   "precio_sin_obsequio": 11500000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 90,
+   "precio_lista": 14000000,
+   "precio_sin_obsequio": 12000000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 90,
+   "precio_lista": 14300000,
+   "precio_sin_obsequio": 12300000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 90,
+   "precio_lista": 14500000,
+   "precio_sin_obsequio": 12500000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 90,
+   "precio_lista": 14300000,
+   "precio_sin_obsequio": 12300000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 90,
+   "precio_lista": 15100000,
+   "precio_sin_obsequio": 13100000
+  },
+  {
+   "venue": "Granada",
+   "invitados": 100,
+   "precio_lista": 13400000,
+   "precio_sin_obsequio": 11400000
+  },
+  {
+   "venue": "Vallano",
+   "invitados": 100,
+   "precio_lista": 13900000,
+   "precio_sin_obsequio": 11900000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 100,
+   "precio_lista": 14400000,
+   "precio_sin_obsequio": 12400000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 100,
+   "precio_lista": 14700000,
+   "precio_sin_obsequio": 12700000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 100,
+   "precio_lista": 14900000,
+   "precio_sin_obsequio": 12900000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 100,
+   "precio_lista": 14700000,
+   "precio_sin_obsequio": 12700000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 100,
+   "precio_lista": 15600000,
+   "precio_sin_obsequio": 13600000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 110,
+   "precio_lista": 14800000,
+   "precio_sin_obsequio": 12800000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 110,
+   "precio_lista": 15300000,
+   "precio_sin_obsequio": 13300000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 110,
+   "precio_lista": 15500000,
+   "precio_sin_obsequio": 13500000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 110,
+   "precio_lista": 15300000,
+   "precio_sin_obsequio": 13300000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 110,
+   "precio_lista": 16100000,
+   "precio_sin_obsequio": 14100000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 120,
+   "precio_lista": 15400000,
+   "precio_sin_obsequio": 13400000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 120,
+   "precio_lista": 15700000,
+   "precio_sin_obsequio": 13700000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 120,
+   "precio_lista": 16000000,
+   "precio_sin_obsequio": 14000000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 120,
+   "precio_lista": 15700000,
+   "precio_sin_obsequio": 13700000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 120,
+   "precio_lista": 16500000,
+   "precio_sin_obsequio": 14500000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 130,
+   "precio_lista": 15900000,
+   "precio_sin_obsequio": 13900000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 130,
+   "precio_lista": 16100000,
+   "precio_sin_obsequio": 14100000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 130,
+   "precio_lista": 16400000,
+   "precio_sin_obsequio": 14400000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 130,
+   "precio_lista": 16100000,
+   "precio_sin_obsequio": 14100000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 130,
+   "precio_lista": 16900000,
+   "precio_sin_obsequio": 14900000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 140,
+   "precio_lista": 16500000,
+   "precio_sin_obsequio": 14500000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 140,
+   "precio_lista": 16700000,
+   "precio_sin_obsequio": 14700000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 140,
+   "precio_lista": 16900000,
+   "precio_sin_obsequio": 14900000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 140,
+   "precio_lista": 16700000,
+   "precio_sin_obsequio": 14700000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 140,
+   "precio_lista": 17500000,
+   "precio_sin_obsequio": 15500000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 150,
+   "precio_lista": 17200000,
+   "precio_sin_obsequio": 15200000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 150,
+   "precio_lista": 17500000,
+   "precio_sin_obsequio": 15500000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 150,
+   "precio_lista": 17700000,
+   "precio_sin_obsequio": 15700000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 150,
+   "precio_lista": 17500000,
+   "precio_sin_obsequio": 15500000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 150,
+   "precio_lista": 18300000,
+   "precio_sin_obsequio": 16300000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 160,
+   "precio_lista": 17700000,
+   "precio_sin_obsequio": 15700000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 160,
+   "precio_lista": 18100000,
+   "precio_sin_obsequio": 16100000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 160,
+   "precio_lista": 18200000,
+   "precio_sin_obsequio": 16200000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 160,
+   "precio_lista": 18100000,
+   "precio_sin_obsequio": 16100000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 160,
+   "precio_lista": 18800000,
+   "precio_sin_obsequio": 16800000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 170,
+   "precio_lista": 18300000,
+   "precio_sin_obsequio": 16300000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 170,
+   "precio_lista": 18700000,
+   "precio_sin_obsequio": 16700000
+  },
+  {
+   "venue": "Casa 5",
+   "invitados": 170,
+   "precio_lista": 19000000,
+   "precio_sin_obsequio": 17000000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 170,
+   "precio_lista": 18700000,
+   "precio_sin_obsequio": 16700000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 170,
+   "precio_lista": 19500000,
+   "precio_sin_obsequio": 17500000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 180,
+   "precio_lista": 18900000,
+   "precio_sin_obsequio": 16900000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 180,
+   "precio_lista": 19200000,
+   "precio_sin_obsequio": 17200000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 180,
+   "precio_lista": 19200000,
+   "precio_sin_obsequio": 17200000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 180,
+   "precio_lista": 20000000,
+   "precio_sin_obsequio": 18000000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 190,
+   "precio_lista": 19400000,
+   "precio_sin_obsequio": 17400000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 190,
+   "precio_lista": 19800000,
+   "precio_sin_obsequio": 17800000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 190,
+   "precio_lista": 19800000,
+   "precio_sin_obsequio": 17800000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 190,
+   "precio_lista": 20600000,
+   "precio_sin_obsequio": 18600000
+  },
+  {
+   "venue": "Casa 74",
+   "invitados": 200,
+   "precio_lista": 20200000,
+   "precio_sin_obsequio": 18200000
+  },
+  {
+   "venue": "Casa 4",
+   "invitados": 200,
+   "precio_lista": 20500000,
+   "precio_sin_obsequio": 18500000
+  },
+  {
+   "venue": "Orquideorama",
+   "invitados": 200,
+   "precio_lista": 20500000,
+   "precio_sin_obsequio": 18500000
+  },
+  {
+   "venue": "Casa Pance",
+   "invitados": 200,
+   "precio_lista": 21300000,
+   "precio_sin_obsequio": 19300000
+  }
+ ]
+}

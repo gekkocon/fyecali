@@ -1,0 +1,44 @@
+{
+ "Granada": {
+  "min": 30,
+  "max": 100,
+  "tramos": 8,
+  "huecos": []
+ },
+ "Vallano": {
+  "min": 30,
+  "max": 100,
+  "tramos": 8,
+  "huecos": []
+ },
+ "Casa 74": {
+  "min": 30,
+  "max": 200,
+  "tramos": 18,
+  "huecos": []
+ },
+ "Casa 4": {
+  "min": 30,
+  "max": 200,
+  "tramos": 18,
+  "huecos": []
+ },
+ "Casa 5": {
+  "min": 30,
+  "max": 170,
+  "tramos": 15,
+  "huecos": []
+ },
+ "Orquideorama": {
+  "min": 50,
+  "max": 200,
+  "tramos": 16,
+  "huecos": []
+ },
+ "Casa Pance": {
+  "min": 50,
+  "max": 200,
+  "tramos": 16,
+  "huecos": []
+ }
+}
